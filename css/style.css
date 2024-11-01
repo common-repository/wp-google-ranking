@@ -1,0 +1,21 @@
+#wpgr_table {
+	border:1px solid black;
+	margin:0 auto;
+	width:800px
+}
+#wpgr_table td, #wpr_table tr{
+	padding:10px;
+}
+#wpgr_table .col:hover {
+	background-color:yellow;
+}
+
+.wpgr_tab_name {
+	float:left;
+	padding-left:3px;
+	border:1px solid #cacaca;
+	font-size:15px;
+	background:yellow;
+	margin-left:5px;
+	font-weight:bold;
+}
